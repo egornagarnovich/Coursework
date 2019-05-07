@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{2FB203ED-E7A6-4E8F-B8BF-81E903451800}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="work/Program.cs">
+    <Files>
+      <File FileName="work/Program.cs" Line="16" Column="141" />
+      <File FileName="work/ShellHelper.cs" Line="15" Column="39" />
+      <File FileName="work/WavInformation.cs" Line="22" Column="10" />
+      <File FileName="work/FFT.cs" Line="16" Column="32" />
+      <File FileName="work/AudioConverter.cs" Line="12" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.work PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

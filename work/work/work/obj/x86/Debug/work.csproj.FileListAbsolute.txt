@@ -1,0 +1,6 @@
+/home/egor_kin/git/Coursework/work/work/work/bin/Debug/work.exe
+/home/egor_kin/git/Coursework/work/work/work/bin/Debug/work.pdb
+/home/egor_kin/git/Coursework/work/work/work/obj/x86/Debug/work.csprojResolveAssemblyReference.cache
+/home/egor_kin/git/Coursework/work/work/work/obj/x86/Debug/work.csproj.CoreCompileInputs.cache
+/home/egor_kin/git/Coursework/work/work/work/obj/x86/Debug/work.exe
+/home/egor_kin/git/Coursework/work/work/work/obj/x86/Debug/work.pdb
